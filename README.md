@@ -9,7 +9,7 @@ Esse repositório tem como objetivo apresentar minha lista de estudos atual e ma
 Para utilizar esse repositório basta fazer um clone na sua máquina local e abrir o arquivo ESTUDOS.md
 
 ``` 
-git clone [url]
+git clone https://github.com/b1z3rr4/lista-de-estudos.git
 ```
 
 Para marcar o avanço das aulas basta selecionar a caixa com o conteúdo indicado.
